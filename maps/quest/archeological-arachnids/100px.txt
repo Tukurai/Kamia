@@ -1,0 +1,1 @@
+Scale is set to 100px per square due to size.
