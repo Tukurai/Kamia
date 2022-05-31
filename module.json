@@ -1,10 +1,17 @@
 {
-    "name": "my-content-module",
-    "title": "My Content Module",
-    "description": "A collection of my content.",
+    "name": "Kamia-plane-of-hunters",
+    "title": "Kamia, the plane of hunters",
+    "description": "Contains a lot of the assets used to play this campaign.",
     "version": "1.0.0",
-    "author": "Me",
-    "minimumCoreVersion": "0.8.6",
+    "author": "Tukurai",
+    "authors": [
+        {
+            "name": "Tukurai",
+            "email": "jeroen@espersolutions.nl",
+            "url": "http://kamia.toxi.us"
+        }
+    ],
+    "minimumCoreVersion": "0.9.0",
     "compatibleCoreVersion": "9",
     "packs": [
         {
