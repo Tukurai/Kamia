@@ -11,8 +11,10 @@
             "url": "http://kamia.toxi.us"
         }
     ],
-    "minimumCoreVersion": "0.9.0",
+    "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
+    "manifest": "https://raw.githubusercontent.com/Tukurai/Kamia/v1.0.0/module.json",
+    "download": "https://github.com/Tukurai/Kamia/archive/refs/tags/v1.0.0.zip",
     "packs": [
         {
             "name": "module-creatures",
@@ -63,7 +65,5 @@
             "entity": "Playlist",
             "type": "Playlist"
         }
-    ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    ]
   }
